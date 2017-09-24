@@ -1,0 +1,4 @@
+body {
+  font-family: 'Open Sans';
+  src:url('../fonts/OpenSans-Regular.ttf') format('truetype'); /* Legacy iOS */
+}

@@ -1,0 +1,144 @@
+/*
+	 CSS-Tricks Example
+	 by Chris Coyier
+	 http://css-tricks.com
+*/
+
+* { margin: 0; padding: 0; }
+body {
+	font: 14px/1.4 Georgia, serif;
+	position: relative;
+}
+#page-wrap { width: 850px; margin: 0 auto; }
+
+textarea { border: 0; font: 14px Georgia, Serif; overflow: hidden; resize: none; }
+input { border: 0; font: 12px Georgia, Serif; overflow: hidden; resize: none; padding:0; margin:0;}
+table { border-collapse: collapse; }
+table td, table th { border: 1px solid black; padding: 5px; }
+
+#header { height: 20px; width: 100%; margin-bottom: 5px; background:#666; text-align: center; color: white; font: bold 20px Helvetica, Sans-Serif; text-decoration: uppercase; letter-spacing: 10px; padding: 5px 0px 10px 0px; }
+
+
+#address {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	color: #F00;
+	font-weight: bold;
+	
+}
+#address1 {
+	float: left;
+	overflow: hidden;
+	position: relative;
+	height: auto;
+	width: 50%;
+	margin-right: 80px;
+	}
+#address2 {
+	float: right;
+	overflow: hidden;
+	position: relative;
+	width: 40%;
+	margin-left: 0px;
+	}
+#addressline {
+	float: left;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+#customer {
+	overflow: hidden;
+	margin-top: 20px;
+	
+	
+	}
+
+#logo { position: relative; margin-top: 0px; border: 1px solid #fff;  max-height: 140px; overflow: hidden; width:100% }
+#invoice {
+	position: relative;
+	float: right;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #666;
+}
+#bizDetails {
+	font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12px;
+	float: right;
+	position: relative;
+	margin-top: 5px;
+	border: 1px solid #fff;
+	width: 700px;
+	max-height: 60px;
+	overflow:visible;
+}
+#bizDetails #bizDetails1{padding-bottom:0; padding-top:1px; padding-left:0; padding-right:0; margin:0; text-align:center; font-weight:bold }
+#bizDetails #bizDetails2{padding-bottom:0; padding-top:1px; padding-left:0; padding-right:0; margin:0; text-align:center; background: #eee; }
+
+#logo:hover, #logo.edit { border: 1px solid #000; margin-top: 0px; max-height: 125px; }
+#logoctr { display: none; }
+#logo:hover #logoctr, #logo.edit #logoctr { display: block; text-align: right; line-height: 25px; background: #eee; padding: 0 5px; }
+#logohelp { text-align: left; display: none; font-style: italic; padding: 10px 5px;}
+#logohelp input { margin-bottom: 5px; }
+.edit #logohelp { display: block; }
+.edit #save-logo, .edit #cancel-logo { display: inline; }
+.edit #image, #save-logo, #cancel-logo, .edit #change-logo, .edit #delete-logo { display: none; }
+#customer-title { font-size: 14px; font-weight: bold; float: left; line-height:23px; width:450px;}
+
+#meta {
+	margin-top: 1px;
+	width: 300px;
+	float: right;
+	border: 1px solid black;
+}
+#meta td { text-align: right;  }
+#meta td.meta-head { text-align: left; background: #eee; }
+#meta td textarea { width: 80%; height: 20px; text-align: right; }
+
+}
+#meta td { text-align: right;  }
+#meta td.meta-head { text-align: left; background: #eee; }
+#meta td textarea { width: 80%; height: 20px; text-align: right; }
+
+
+#items { clear: both; width: 100%; margin: 5px 0 0 0; border: 1px solid black; }
+#items th { background: #eee; }
+#items textarea { width: 80px; height: 50px; }
+#items tr.item-row td {
+	border: 1px solid black;
+	vertical-align: top;
+	
+}
+#items td.description { width: 30%; text-align:left}
+#items td.item-name { width: 25%; }
+#items td.sn { width: 5%; }
+#items td.description textarea, #items td.item-name textarea { width: 100%; }
+#items td.total-line { border-right: 0; text-align: right; border:1px solid black; }
+#items td.total-value { border-left: 0; padding: 5px; text-align: right; border:1px solid black;}
+#items td.total-value textarea { height: 20px; background: none; text-align: right;}
+#items td.balance { background: #eee; }
+#items td.blank { border: 0; }
+
+#terms { text-align: left; margin: 20px 0 0 0; width: 50%; }
+#terms h5 { text-transform: uppercase; font: 10px Helvetica, Sans-Serif; letter-spacing: 3px; border-bottom: 1px solid black; padding: 0 0 3px 0; margin: 0 0 8px 0; }
+#terms textarea { width: 100%; text-align: left; font: 12px Helvetica, Sans-Serif;}
+
+#signature { text-align: left; margin: 30px 0 0 0; width: 100%; padding-top: 20px; }
+#signature textarea { width: 100%; text-align: left; font: 12px Helvetica, Sans-Serif;}
+
+textarea:hover, textarea:focus, #items td.total-value textarea:hover, #items td.total-value textarea:focus, .delete:hover { background-color:#EEFF88; }
+
+.delete-wpr { position: relative; }
+.delete { display: block; color: #000; text-decoration: none; position: absolute; background: #EEEEEE; font-weight: bold; padding: 0px 3px; border: 1px solid; top: -6px; left: -22px; font-family: Verdana; font-size: 12px; }
+
+#footer {
+	background: #999;
+	color: #FFF;
+	width: 100%;
+	margin-bottom: 5px;
+	font-size: 12px;
+	padding: 3px 0px 3px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	}

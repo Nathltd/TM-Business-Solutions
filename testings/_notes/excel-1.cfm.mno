@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_queryData" value="name:ID;datatype:,name:ReceiptNo;datatype:,name:ReceiptDate;datatype:,name:CustomerId;datatype:,name:StaffCode;datatype:,name:BranchId;datatype:,name:AccountId;datatype:,name:TotalAmount;datatype:,name:AmountPaid;datatype:,name:Balance;datatype:,name:LastUpdated;datatype:,name:Creator;datatype:" />
+</info>

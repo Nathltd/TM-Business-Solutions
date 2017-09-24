@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+		font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+		font-size:11px;
+	}
+#identity {
+			width: 90%;
+			background-color:#888686;
+			color:#F8F4F4;
+			margin:auto;
+			font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+			}
+#addressline {
+			color:#0540AA;
+			}
+#footer{
+			width: 90%;
+			margin:auto;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			}

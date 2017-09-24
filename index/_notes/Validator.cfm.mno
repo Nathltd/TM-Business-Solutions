@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_LoginInfo" value="name:UserID;datatype:,name:Pword;datatype:,name:Designation;datatype:,name:FirstName;datatype:,name:LastName;datatype:" />
+</info>

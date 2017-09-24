@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Expenses.cfm" server="C:/inetpub/wwwroot/TM001/" local="129698041819129425" remote="129698041810000000" Dst="-1" />
+<file name="newExpenseAcct.cfm" server="C:/inetpub/wwwroot/TM001/" local="129698032655355287" remote="129698032650000000" Dst="-1" />
+<file name="updateExpenseAcct.cfm" server="C:/inetpub/wwwroot/TM001/" local="129687072376714922" remote="129687072370000000" Dst="-1" />
+<file name="Expenses.cfm" server="ftp.nathconcept.com/TM001/" local="130050638301882104" remote="130050422400000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="ftp.nathconcept.com/TM001/" local="129995864791014032" remote="129995652000000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="ftp.nathconcept.com/TM001/" local="129995864322481890" remote="129995652000000000" Dst="0" />
+<file name="updateExpenses.cfm" server="ftp.nathconcept.com/TM001/" local="129995867988956243" remote="129995652000000000" Dst="0" />
+<file name="Expenses.cfm" server="199.85.212.10/TM001/" local="130050638301882104" remote="130051747200000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="199.85.212.10/TM001/" local="129995864791014032" remote="130051747200000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="199.85.212.10/TM001/" local="129995869994819056" remote="130051747200000000" Dst="0" />
+<file name="updateExpenses.cfm" server="199.85.212.10/TM001/" local="129995867988956243" remote="130051747200000000" Dst="0" />
+<file name="Expenses.cfm" server="199.85.212.10/filph/" local="130052846313303496" remote="130078008000000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="199.85.212.10/filph/" local="129995864791014032" remote="130078008000000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="199.85.212.10/filph/" local="129995869994819056" remote="130078008000000000" Dst="0" />
+<file name="updateExpenses.cfm" server="199.85.212.10/filph/" local="130077408848676068" remote="130078008000000000" Dst="0" />
+<file name="Expenses.cfm" server="199.85.212.10/westins/" local="130052846313303496" remote="130137244200000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="199.85.212.10/westins/" local="129995864791014032" remote="130137244200000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="199.85.212.10/westins/" local="129995869994819056" remote="130137244200000000" Dst="0" />
+<file name="updateExpenses.cfm" server="199.85.212.10/westins/" local="130077408848676068" remote="130137244200000000" Dst="0" />
+<file name="Expenses.cfm" server="199.85.212.10/filKano/" local="130052846313303496" remote="130077830400000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="199.85.212.10/filKano/" local="129995869994819056" remote="130077830400000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="199.85.212.10/filKano/" local="129995864791014032" remote="130077830400000000" Dst="0" />
+<file name="updateExpenses.cfm" server="199.85.212.10/filKano/" local="130077408848676068" remote="130077830400000000" Dst="0" />
+<file name="Expenses.cfm" server="199.85.212.10/filIkeja/" local="130052846313303496" remote="130078015200000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="199.85.212.10/filIkeja/" local="129995864791014032" remote="130078015200000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="199.85.212.10/filIkeja/" local="129995869994819056" remote="130078015200000000" Dst="0" />
+<file name="updateExpenses.cfm" server="199.85.212.10/filIkeja/" local="130077408848676068" remote="130078015200000000" Dst="0" />
+<file name="Expenses.cfm" server="199.85.212.10/demo/" local="130052846313303496" remote="130159505400000000" Dst="2" />
+<file name="newExpenseAcct.cfm" server="199.85.212.10/demo/" local="129995864791014032" remote="130159505400000000" Dst="2" />
+<file name="updateExpenseAcct.cfm" server="199.85.212.10/demo/" local="129995869994819056" remote="130159505400000000" Dst="2" />
+<file name="updateExpenses.cfm" server="199.85.212.10/demo/" local="130077408848676068" remote="130159505400000000" Dst="2" />
+<file name="Expenses.cfm" server="199.85.212.10/filAccra/" local="130052846313303496" remote="130173695400000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="199.85.212.10/filAccra/" local="129995864791014032" remote="130173695400000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="199.85.212.10/filAccra/" local="129995869994819056" remote="130173695400000000" Dst="0" />
+<file name="updateExpenses.cfm" server="199.85.212.10/filAccra/" local="130165235375369628" remote="130173695400000000" Dst="0" />
+<file name="Expenses.cfm" server="199.85.212.10/filKumasi/" local="130052846313303496" remote="130173705600000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="199.85.212.10/filKumasi/" local="129995864791014032" remote="130173705600000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="199.85.212.10/filKumasi/" local="129995869994819056" remote="130173705600000000" Dst="0" />
+<file name="updateExpenses.cfm" server="199.85.212.10/filKumasi/" local="130165235375369628" remote="130173705600000000" Dst="0" />
+<file name="Expenses.cfm" server="ftp.transactmanager.com/awardglobal/" local="130536445906837717" remote="130536181800000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="ftp.transactmanager.com/awardglobal/" local="130437768900000000" remote="130531928400000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="ftp.transactmanager.com/awardglobal/" local="129995870000000000" remote="130531928400000000" Dst="0" />
+<file name="updateExpenses.cfm" server="ftp.transactmanager.com/awardglobal/" local="130559545991207942" remote="130559257800000000" Dst="0" />
+<file name="rebate.cfm" server="ftp.transactmanager.com/awardglobal/" local="130580135217819406" remote="130582495800000000" Dst="0" />
+<file name="updateRebate.cfm" server="ftp.transactmanager.com/awardglobal/" local="130582743793600322" remote="130582495800000000" Dst="0" />
+<file name="rebate.cfm" server="ftp.transactmanager.com/filAccra/" local="130580135217819406" remote="130583752800000000" Dst="0" />
+<file name="updateRebate.cfm" server="ftp.transactmanager.com/filAccra/" local="130582743793600322" remote="130583752800000000" Dst="0" />
+<file name="Expenses.cfm" server="ftp.transactmanager.com/demo/" local="131131115098467877" remote="131133511200000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="ftp.transactmanager.com/demo/" local="131131115098828116" remote="131133511200000000" Dst="0" />
+<file name="rebate.cfm" server="ftp.transactmanager.com/demo/" local="131131115098998224" remote="131133511200000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="ftp.transactmanager.com/demo/" local="131131115099524126" remote="131133511200000000" Dst="0" />
+<file name="updateExpenses.cfm" server="ftp.transactmanager.com/demo/" local="131131115099704245" remote="131133511200000000" Dst="0" />
+<file name="updateRebate.cfm" server="ftp.transactmanager.com/demo/" local="131131115099884365" remote="131133511200000000" Dst="0" />
+<file name="Expenses.cfm" server="ftp.transactmanager.com/ikd/" local="130683881539871535" remote="130683559200000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="ftp.transactmanager.com/ikd/" local="130679118284798423" remote="130683529200000000" Dst="0" />
+<file name="rebate.cfm" server="ftp.transactmanager.com/ikd/" local="130673601641645480" remote="130673278200000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="ftp.transactmanager.com/ikd/" local="130679121952911497" remote="130683529200000000" Dst="0" />
+<file name="updateExpenses.cfm" server="ftp.transactmanager.com/ikd/" local="130673558239502850" remote="130673235600000000" Dst="0" />
+<file name="updateRebate.cfm" server="ftp.transactmanager.com/ikd/" local="130673601725745118" remote="130673278200000000" Dst="0" />
+<file name="ExpenseAcctList.cfm" server="ftp.transactmanager.com/ikd/" local="130669165442822171" remote="130673235000000000" Dst="0" />
+<file name="ExpenseAcctList.cfm" server="ftp.transactmanager.com/hitech/" local="130669165442822171" remote="130675032000000000" Dst="0" />
+<file name="Expenses.cfm" server="ftp.transactmanager.com/hitech/" local="130673558242002969" remote="130675032000000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="ftp.transactmanager.com/hitech/" local="130673558240909168" remote="130675032000000000" Dst="0" />
+<file name="rebate.cfm" server="ftp.transactmanager.com/hitech/" local="130673601641645480" remote="130675032000000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="ftp.transactmanager.com/hitech/" local="130673558513720643" remote="130675032000000000" Dst="0" />
+<file name="updateExpenses.cfm" server="ftp.transactmanager.com/hitech/" local="130673558239502850" remote="130675032000000000" Dst="0" />
+<file name="updateRebate.cfm" server="ftp.transactmanager.com/hitech/" local="130673601725745118" remote="130675032000000000" Dst="0" />
+<file name="checkDupl.js" server="ftp.transactmanager.com/demo/" local="131131115098111996" remote="131133511200000000" Dst="0" />
+<file name="ExpenseAcctList.cfm" server="ftp.transactmanager.com/demo/" local="131131115098287153" remote="131133511200000000" Dst="0" />
+<file name="reimburse.cfm" server="ftp.transactmanager.com/demo/" local="131131115099352571" remote="131133511200000000" Dst="0" />
+<file name="updateReimburse.cfm" server="ftp.transactmanager.com/demo/" local="131131115100259644" remote="131133511200000000" Dst="0" />
+<file name="checkDupl.js" server="ftp.transactmanager.com/BryanCole/" local="130814990948876794" remote="130815928800000000" Dst="0" />
+<file name="ExpenseAcctList.cfm" server="ftp.transactmanager.com/BryanCole/" local="130669165460000000" remote="130804981800000000" Dst="0" />
+<file name="Expenses.cfm" server="ftp.transactmanager.com/BryanCole/" local="130754689002919741" remote="130804981800000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="ftp.transactmanager.com/BryanCole/" local="130754689002294708" remote="130804981800000000" Dst="0" />
+<file name="rebate.cfm" server="ftp.transactmanager.com/BryanCole/" local="130778914553683069" remote="130804981800000000" Dst="0" />
+<file name="reimburse.cfm" server="ftp.transactmanager.com/BryanCole/" local="130788099257700161" remote="130804981800000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="ftp.transactmanager.com/BryanCole/" local="130679121960000000" remote="130804981800000000" Dst="0" />
+<file name="updateExpenses.cfm" server="ftp.transactmanager.com/BryanCole/" local="130685518960000000" remote="130804981800000000" Dst="0" />
+<file name="updateRebate.cfm" server="ftp.transactmanager.com/BryanCole/" local="130673601740000000" remote="130804982400000000" Dst="0" />
+<file name="updateReimburse.cfm" server="ftp.transactmanager.com/BryanCole/" local="130788099259451327" remote="130804982400000000" Dst="0" />
+<file name="checkDupl.js" server="ftp.transactmanager.com/charis/" local="130814990948876794" remote="130821749400000000" Dst="0" />
+<file name="ExpenseAcctList.cfm" server="ftp.transactmanager.com/charis/" local="130669165460000000" remote="130821749400000000" Dst="0" />
+<file name="Expenses.cfm" server="ftp.transactmanager.com/charis/" local="130754689002919741" remote="130821749400000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="ftp.transactmanager.com/charis/" local="130754689002294708" remote="130821749400000000" Dst="0" />
+<file name="rebate.cfm" server="ftp.transactmanager.com/charis/" local="130778914553683069" remote="130821749400000000" Dst="0" />
+<file name="reimburse.cfm" server="ftp.transactmanager.com/charis/" local="130788099257700161" remote="130821749400000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="ftp.transactmanager.com/charis/" local="130679121960000000" remote="130821749400000000" Dst="0" />
+<file name="updateExpenses.cfm" server="ftp.transactmanager.com/charis/" local="130685518960000000" remote="130821749400000000" Dst="0" />
+<file name="updateRebate.cfm" server="ftp.transactmanager.com/charis/" local="130673601740000000" remote="130821749400000000" Dst="0" />
+<file name="updateReimburse.cfm" server="ftp.transactmanager.com/charis/" local="130788099259451327" remote="130821749400000000" Dst="0" />
+<file name="checkDupl - Copy.js" server="ftp.transactmanager.com/demo/" local="131131115097941883" remote="131133511200000000" Dst="0" />
+<file name="ExpensesRefund.cfm" server="ftp.transactmanager.com/demo/" local="131131115098668010" remote="131133511200000000" Dst="0" />
+<file name="refund.cfm" server="ftp.transactmanager.com/demo/" local="131131115099168336" remote="131133511200000000" Dst="0" />
+<file name="updateRefund.cfm" server="ftp.transactmanager.com/demo/" local="131131115100064494" remote="131133511200000000" Dst="0" />
+<file name="checkDupl - Copy.js" server="transactmanager.com/filph2/" local="130833903549650546" remote="130965081600000000" Dst="0" />
+<file name="checkDupl.js" server="transactmanager.com/filph2/" local="130833919721151975" remote="130965081600000000" Dst="0" />
+<file name="ExpenseAcctList.cfm" server="transactmanager.com/filph2/" local="130669165460000000" remote="130965081600000000" Dst="0" />
+<file name="Expenses.cfm" server="transactmanager.com/filph2/" local="130833921587054604" remote="130965081600000000" Dst="0" />
+<file name="ExpensesRefund.cfm" server="transactmanager.com/filph2/" local="130851262908933311" remote="130965081600000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="transactmanager.com/filph2/" local="130754689002294708" remote="130965081600000000" Dst="0" />
+<file name="rebate.cfm" server="transactmanager.com/filph2/" local="130848840837389332" remote="130965081600000000" Dst="0" />
+<file name="refund.cfm" server="transactmanager.com/filph2/" local="130840126830119677" remote="130965081600000000" Dst="0" />
+<file name="reimburse.cfm" server="transactmanager.com/filph2/" local="130843724545140404" remote="130965081600000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="transactmanager.com/filph2/" local="130679121960000000" remote="130965081600000000" Dst="0" />
+<file name="updateExpenses.cfm" server="transactmanager.com/filph2/" local="130827984031270664" remote="130965081600000000" Dst="0" />
+<file name="updateRebate.cfm" server="transactmanager.com/filph2/" local="130830750780440305" remote="130965081600000000" Dst="0" />
+<file name="updateRefund.cfm" server="transactmanager.com/filph2/" local="130881727867824653" remote="130965081600000000" Dst="0" />
+<file name="updateReimburse.cfm" server="transactmanager.com/filph2/" local="130830761243993511" remote="130965081600000000" Dst="0" />
+<file name="checkDupl - Copy.js" server="ftp.transactmanager.com/filph/" local="130833903549650546" remote="130965075600000000" Dst="0" />
+<file name="checkDupl.js" server="ftp.transactmanager.com/filph/" local="130833919721151975" remote="130965075600000000" Dst="0" />
+<file name="ExpenseAcctList.cfm" server="ftp.transactmanager.com/filph/" local="130669165460000000" remote="130965075600000000" Dst="0" />
+<file name="Expenses.cfm" server="ftp.transactmanager.com/filph/" local="130833921587054604" remote="130965075600000000" Dst="0" />
+<file name="ExpensesRefund.cfm" server="ftp.transactmanager.com/filph/" local="130851262908933311" remote="130965075600000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="ftp.transactmanager.com/filph/" local="130754689002294708" remote="130965075600000000" Dst="0" />
+<file name="rebate.cfm" server="ftp.transactmanager.com/filph/" local="130848840837389332" remote="130965075600000000" Dst="0" />
+<file name="refund.cfm" server="ftp.transactmanager.com/filph/" local="130840126830119677" remote="130965075600000000" Dst="0" />
+<file name="reimburse.cfm" server="ftp.transactmanager.com/filph/" local="130843724545140404" remote="130965075600000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="ftp.transactmanager.com/filph/" local="130679121960000000" remote="130965075600000000" Dst="0" />
+<file name="updateExpenses.cfm" server="ftp.transactmanager.com/filph/" local="130827984031270664" remote="130965075600000000" Dst="0" />
+<file name="updateRebate.cfm" server="ftp.transactmanager.com/filph/" local="130830750780440305" remote="130965075600000000" Dst="0" />
+<file name="updateRefund.cfm" server="ftp.transactmanager.com/filph/" local="130881727867824653" remote="130965075600000000" Dst="0" />
+<file name="updateReimburse.cfm" server="ftp.transactmanager.com/filph/" local="130830761243993511" remote="130965075600000000" Dst="0" />
+<file name="checkDupl - Copy.js" server="transactmanager.com/filph16/" local="130833903549650546" remote="130970281200000000" Dst="0" />
+<file name="checkDupl.js" server="transactmanager.com/filph16/" local="130833919721151975" remote="130970281200000000" Dst="0" />
+<file name="ExpenseAcctList.cfm" server="transactmanager.com/filph16/" local="130669165460000000" remote="130970281200000000" Dst="0" />
+<file name="Expenses.cfm" server="transactmanager.com/filph16/" local="130833921587054604" remote="130970281200000000" Dst="0" />
+<file name="ExpensesRefund.cfm" server="transactmanager.com/filph16/" local="130851262908933311" remote="130970281200000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="transactmanager.com/filph16/" local="130754689002294708" remote="130970281200000000" Dst="0" />
+<file name="rebate.cfm" server="transactmanager.com/filph16/" local="130848840837389332" remote="130970281200000000" Dst="0" />
+<file name="refund.cfm" server="transactmanager.com/filph16/" local="130840126830119677" remote="130970281200000000" Dst="0" />
+<file name="reimburse.cfm" server="transactmanager.com/filph16/" local="130843724545140404" remote="130970281200000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="transactmanager.com/filph16/" local="130679121960000000" remote="130970281200000000" Dst="0" />
+<file name="updateExpenses.cfm" server="transactmanager.com/filph16/" local="130827984031270664" remote="130970281800000000" Dst="0" />
+<file name="updateRebate.cfm" server="transactmanager.com/filph16/" local="130830750780440305" remote="130970281800000000" Dst="0" />
+<file name="updateRefund.cfm" server="transactmanager.com/filph16/" local="130881727867824653" remote="130970281800000000" Dst="0" />
+<file name="updateReimburse.cfm" server="transactmanager.com/filph16/" local="130830761243993511" remote="130970281800000000" Dst="0" />
+<file name="checkDupl - Copy.js" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115097941883" remote="131378658600000000" Dst="0" />
+<file name="checkDupl.js" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115098111996" remote="131378658600000000" Dst="0" />
+<file name="ExpenseAcctList.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115098287153" remote="131378658600000000" Dst="0" />
+<file name="Expenses.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131396509917900941" remote="131396221800000000" Dst="0" />
+<file name="ExpensesRefund.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115098668010" remote="131378659200000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115098828116" remote="131378659200000000" Dst="0" />
+<file name="refund.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131396508717290705" remote="131396221200000000" Dst="0" />
+<file name="reimburse.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115099352571" remote="131378659200000000" Dst="0" />
+<file name="rebate.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131396508574235332" remote="131396221200000000" Dst="0" />
+<file name="updateRebate.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131375125269667244" remote="131378659200000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115099524126" remote="131378659200000000" Dst="0" />
+<file name="updateExpenses.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131388966717682988" remote="131396221200000000" Dst="0" />
+<file name="updateReimburse.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131375129935833572" remote="131378659200000000" Dst="0" />
+<file name="updateRefund.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131375128470628367" remote="131378659200000000" Dst="0" />
+<file name="Expenses - Copy [2].cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131378941969566294" remote="131378659200000000" Dst="0" />
+<file name="Expenses - Copy [3].cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131378942023363947" remote="131378659200000000" Dst="0" />
+<file name="Expenses - Copy [4].cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131378942141770535" remote="131378659200000000" Dst="0" />
+<file name="Expenses - Copy.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131378941906957686" remote="131378659200000000" Dst="0" />
+<file name="checkDupl - Copy.js" server="ftp.transactmanager.com/stonemark/" local="131131115097941883" remote="131400594000000000" Dst="0" />
+<file name="checkDupl.js" server="ftp.transactmanager.com/stonemark/" local="131131115098111996" remote="131400594000000000" Dst="0" />
+<file name="Expenses - Copy [2].cfm" server="ftp.transactmanager.com/stonemark/" local="131378941969566294" remote="131400594000000000" Dst="0" />
+<file name="Expenses.cfm" server="ftp.transactmanager.com/stonemark/" local="131396509917900941" remote="131400594000000000" Dst="0" />
+<file name="ExpenseAcctList.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115098287153" remote="131400594000000000" Dst="0" />
+<file name="Expenses - Copy.cfm" server="ftp.transactmanager.com/stonemark/" local="131378941906957686" remote="131400594000000000" Dst="0" />
+<file name="Expenses - Copy [3].cfm" server="ftp.transactmanager.com/stonemark/" local="131378942023363947" remote="131400594000000000" Dst="0" />
+<file name="Expenses - Copy [4].cfm" server="ftp.transactmanager.com/stonemark/" local="131378942141770535" remote="131400594000000000" Dst="0" />
+<file name="rebate.cfm" server="ftp.transactmanager.com/stonemark/" local="131396508574235332" remote="131400594000000000" Dst="0" />
+<file name="ExpensesRefund.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115098668010" remote="131400594000000000" Dst="0" />
+<file name="newExpenseAcct.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115098828116" remote="131400594000000000" Dst="0" />
+<file name="updateExpenseAcct.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115099524126" remote="131400594000000000" Dst="0" />
+<file name="refund.cfm" server="ftp.transactmanager.com/stonemark/" local="131396508717290705" remote="131400594000000000" Dst="0" />
+<file name="reimburse.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115099352571" remote="131400594000000000" Dst="0" />
+<file name="updateRefund.cfm" server="ftp.transactmanager.com/stonemark/" local="131375128470628367" remote="131400594000000000" Dst="0" />
+<file name="updateExpenses.cfm" server="ftp.transactmanager.com/stonemark/" local="131388966717682988" remote="131400594000000000" Dst="0" />
+<file name="updateRebate.cfm" server="ftp.transactmanager.com/stonemark/" local="131375125269667244" remote="131400594000000000" Dst="0" />
+<file name="updateReimburse.cfm" server="ftp.transactmanager.com/stonemark/" local="131375129935833572" remote="131400594600000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,4 @@
+
+
+
+<cfoutput>#hour(now())#</cfoutput>

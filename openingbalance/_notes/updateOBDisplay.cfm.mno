@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_getBranch" value="name:BranchID;datatype:" />
+	<infoitem key="UD_OPdetails" value="name:ID;datatype:,name:BranchID;datatype:,name:OpeningDate;datatype:,name:ProductID;datatype:,name:Qty;datatype:,name:Damages;datatype:,name:Creator;datatype:" />
+	<infoitem key="UD_Products" value="name:ProductID;datatype:" />
+</info>

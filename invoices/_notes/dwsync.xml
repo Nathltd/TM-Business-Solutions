@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="invoice1.cfm" server="ftp.transactmanager.com/demo/" local="131131115106343880" remote="131131775400000000" Dst="0" />
+<file name="invoice1.cfm" server="ftp.transactmanager.com/hitech/" local="130891048217164134" remote="130890762000000000" Dst="0" />
+<file name="default.cfm" server="ftp.transactmanager.com/demo/" local="131131115105818486" remote="131131775400000000" Dst="0" />
+<file name="invoice - Copy.cfm" server="ftp.transactmanager.com/demo/" local="131131115105968591" remote="131131775400000000" Dst="0" />
+<file name="invoice.cfm" server="ftp.transactmanager.com/demo/" local="131131115106158722" remote="131131775400000000" Dst="0" />
+<file name="invoice2.cfm" server="ftp.transactmanager.com/demo/" local="131131115106687452" remote="131131775400000000" Dst="0" />
+<file name="invoice3.cfm" server="ftp.transactmanager.com/demo/" local="131131115106857559" remote="131131775400000000" Dst="0" />
+<file name="invoice4.cfm" server="ftp.transactmanager.com/demo/" local="131131115107027672" remote="131131775400000000" Dst="0" />
+<file name="invoice5.cfm" server="ftp.transactmanager.com/demo/" local="131131115107197790" remote="131131775400000000" Dst="0" />
+<file name="InvoicePrnt.cfm" server="ftp.transactmanager.com/demo/" local="131131115107367949" remote="131131775400000000" Dst="0" />
+<file name="num2word.js" server="ftp.transactmanager.com/demo/" local="131131115107607261" remote="131131775400000000" Dst="0" />
+<file name="default.cfm" server="transactmanager.com/filph2/" local="130883707900000000" remote="130965081600000000" Dst="0" />
+<file name="invoice - Copy.cfm" server="transactmanager.com/filph2/" local="130891188760000000" remote="130965081600000000" Dst="0" />
+<file name="invoice.cfm" server="transactmanager.com/filph2/" local="130898981820000000" remote="130965081600000000" Dst="0" />
+<file name="invoice1.cfm" server="transactmanager.com/filph2/" local="130976622217760221" remote="130976310000000000" Dst="0" />
+<file name="invoice2.cfm" server="transactmanager.com/filph2/" local="130896890700000000" remote="130965081600000000" Dst="0" />
+<file name="invoice3.cfm" server="transactmanager.com/filph2/" local="130896829700000000" remote="130965081600000000" Dst="0" />
+<file name="invoice4.cfm" server="transactmanager.com/filph2/" local="130896867580000000" remote="130965081600000000" Dst="0" />
+<file name="invoice5.cfm" server="transactmanager.com/filph2/" local="130896813360000000" remote="130965081600000000" Dst="0" />
+<file name="InvoicePrnt.cfm" server="transactmanager.com/filph2/" local="130862653780000000" remote="130965081600000000" Dst="0" />
+<file name="num2word.js" server="transactmanager.com/filph2/" local="130892022980000000" remote="130965026400000000" Dst="0" />
+<file name="default.cfm" server="ftp.transactmanager.com/filph/" local="130883707900000000" remote="130965076200000000" Dst="0" />
+<file name="invoice - Copy.cfm" server="ftp.transactmanager.com/filph/" local="130891188760000000" remote="130965076200000000" Dst="0" />
+<file name="invoice.cfm" server="ftp.transactmanager.com/filph/" local="130898981820000000" remote="130965076200000000" Dst="0" />
+<file name="invoice1.cfm" server="ftp.transactmanager.com/filph/" local="130976622217760221" remote="130976301000000000" Dst="0" />
+<file name="invoice2.cfm" server="ftp.transactmanager.com/filph/" local="130896890700000000" remote="130965076200000000" Dst="0" />
+<file name="invoice3.cfm" server="ftp.transactmanager.com/filph/" local="130896829700000000" remote="130965076200000000" Dst="0" />
+<file name="invoice4.cfm" server="ftp.transactmanager.com/filph/" local="130896867580000000" remote="130965076200000000" Dst="0" />
+<file name="invoice5.cfm" server="ftp.transactmanager.com/filph/" local="130896813360000000" remote="130965076200000000" Dst="0" />
+<file name="InvoicePrnt.cfm" server="ftp.transactmanager.com/filph/" local="130862653780000000" remote="130965076200000000" Dst="0" />
+<file name="num2word.js" server="ftp.transactmanager.com/filph/" local="130892022980000000" remote="130965076200000000" Dst="0" />
+<file name="default.cfm" server="transactmanager.com/filph16/" local="130883707900000000" remote="130970281800000000" Dst="0" />
+<file name="invoice - Copy.cfm" server="transactmanager.com/filph16/" local="130891188760000000" remote="130970281800000000" Dst="0" />
+<file name="invoice.cfm" server="transactmanager.com/filph16/" local="130898981820000000" remote="130970281800000000" Dst="0" />
+<file name="invoice1.cfm" server="transactmanager.com/filph16/" local="130976622217760221" remote="130976300400000000" Dst="0" />
+<file name="invoice2.cfm" server="transactmanager.com/filph16/" local="130896890700000000" remote="130970281800000000" Dst="0" />
+<file name="invoice3.cfm" server="transactmanager.com/filph16/" local="130896829700000000" remote="130970281800000000" Dst="0" />
+<file name="invoice4.cfm" server="transactmanager.com/filph16/" local="130896867580000000" remote="130970281800000000" Dst="0" />
+<file name="invoice5.cfm" server="transactmanager.com/filph16/" local="130896813360000000" remote="130970281800000000" Dst="0" />
+<file name="InvoicePrnt.cfm" server="transactmanager.com/filph16/" local="130862653780000000" remote="130970281800000000" Dst="0" />
+<file name="num2word.js" server="transactmanager.com/filph16/" local="130892022980000000" remote="130970281800000000" Dst="0" />
+<file name="invoice1.cfm" server="ftp.transactmanager.com/filAccra/" local="130976638939137075" remote="130976318400000000" Dst="0" />
+<file name="invoice1.cfm" server="ftp.transactmanager.com/filIkeja/" local="130976643537275701" remote="130976321400000000" Dst="0" />
+<file name="invoice1.cfm" server="ftp.transactmanager.com/filKumasi/" local="130976638939137075" remote="130976316000000000" Dst="0" />
+<file name="num2word.js" server="ftp.transactmanager.com/filKumasi/" local="130976640519804886" remote="130976317800000000" Dst="0" />
+<file name="num2word.js" server="ftp.transactmanager.com/filAccra/" local="130976640519804886" remote="130976318400000000" Dst="0" />
+<file name="invoice1Ghana.cfm" server="ftp.transactmanager.com/demo/" local="131131115106507332" remote="131131775400000000" Dst="0" />
+<file name="pos.cfm" server="ftp.transactmanager.com/demo/" local="131131115107867439" remote="131131775400000000" Dst="0" />
+<file name="default.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115105818486" remote="131401134000000000" Dst="0" />
+<file name="EditableInvoice.zip" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131265762489115994" remote="131401134000000000" Dst="0" />
+<file name="invoice - Copy.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115105968591" remote="131401134000000000" Dst="0" />
+<file name="invoice1.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131215028565558755" remote="131401134000000000" Dst="0" />
+<file name="num2word.js" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115107607261" remote="131401134000000000" Dst="0" />
+<file name="invoice2.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115106687452" remote="131401134000000000" Dst="0" />
+<file name="invoice.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115106158722" remote="131401134000000000" Dst="0" />
+<file name="invoice3.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115106857559" remote="131401134000000000" Dst="0" />
+<file name="invoice4.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115107027672" remote="131401134000000000" Dst="0" />
+<file name="invoice5.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115107197790" remote="131401134000000000" Dst="0" />
+<file name="invoice1Ghana.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115106507332" remote="131401134000000000" Dst="0" />
+<file name="InvoicePrnt.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115107367949" remote="131401134000000000" Dst="0" />
+<file name="pos.cfm" server="ftp.transactmanager.com/demo.transactmanager.com/" local="131131115107867439" remote="131401134000000000" Dst="0" />
+<file name="default.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115105818486" remote="131400594600000000" Dst="0" />
+<file name="EditableInvoice.zip" server="ftp.transactmanager.com/stonemark/" local="131265762489115994" remote="131400594600000000" Dst="0" />
+<file name="invoice - Copy.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115105968591" remote="131400594600000000" Dst="0" />
+<file name="invoice1.cfm" server="ftp.transactmanager.com/stonemark/" local="131215028565558755" remote="131400594600000000" Dst="0" />
+<file name="num2word.js" server="ftp.transactmanager.com/stonemark/" local="131131115107607261" remote="131400594600000000" Dst="0" />
+<file name="invoice2.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115106687452" remote="131400594600000000" Dst="0" />
+<file name="invoice3.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115106857559" remote="131400594600000000" Dst="0" />
+<file name="invoice.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115106158722" remote="131400594600000000" Dst="0" />
+<file name="invoice4.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115107027672" remote="131400594600000000" Dst="0" />
+<file name="invoice5.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115107197790" remote="131400594600000000" Dst="0" />
+<file name="invoice1Ghana.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115106507332" remote="131400594600000000" Dst="0" />
+<file name="pos.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115107867439" remote="131400594600000000" Dst="0" />
+<file name="InvoicePrnt.cfm" server="ftp.transactmanager.com/stonemark/" local="131131115107367949" remote="131400594600000000" Dst="0" />
+</dwsync>

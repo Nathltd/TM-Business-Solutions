@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ItemList" value="name:ProductID;datatype:,name:ProductDescription;datatype:" />
+	<infoitem key="UD_BranchCode" value="name:BranchName;datatype:,name:BranchDesc;datatype:" />
+	<infoitem key="UD_RepCode" value="name:StaffCode;datatype:,name:LastName;datatype:,name:FirstName;datatype:" />
+	<infoitem key="UD_CustomerCode" value="name:CustomerName;datatype:,name:company;datatype:" />
+</info>
